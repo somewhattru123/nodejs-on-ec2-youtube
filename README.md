@@ -1,8 +1,8 @@
-# Node public repo Hello World subscribe to my channel , thank you, GOODBYE
+# Node public repo Hello World subscribe to my channel , thank you
 
 Simple node.js app that servers  "Welcome to CLOUD ASEEM  & Credit with Thanks to - A Monk in Cloud"
 
-Great for testing simple deployments on Cloud
+Great for testing simple deployments on Cloude
 
 ## Step 1: Install NodeJS and NPM using nvm
 Install node version manager (nvm) by typing the following at the command line.
